@@ -1,0 +1,52 @@
+body{
+  background-color: steelblue;
+  font-family: Times, Arial, sans-serif;
+
+}
+
+#container{
+  background-color: grey;
+  width: 999px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+
+#header{
+
+  padding-top:  auto;
+  float: none;
+  height: auto;
+  text-align: center;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 999px;
+  
+
+
+}
+
+#main{
+  width: 999px;
+  height: auto;
+  float: none;
+  text-align: center;
+  vertical-align: top;
+  padding: above;
+  overflow: auto;
+  overflow-y: hidden;
+
+}
+
+#footer{
+
+  background-color: lightskyblue;
+  clear: both;
+  padding: 0px;
+  text-align: center;
+
+}
